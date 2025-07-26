@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "veganlens-466807",
+  "private_key_id": "b2d44b0fc9f7a799116c0cced664be92c9b19b07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCj3yPyTKGr8/J1\nTBHlZ1HDfWFSmG+n7v31hFEsviqU+h9CgR3FaCN7riACjQfxtQoZREWFqJCMeU0j\n88k0gJJHKRqgiDp3WDcO4B03aH/akzcR2bVo+IVcxT5A0agcBTdzMAj5lwKkJr5E\n6A4AXz5VshtBd859ChMgtuP8otSj9M3BYuraITG0ZqdhOk5tbRFAHZGj8c7S126z\n+jlYUvJx/AZIiH1cV+hcefwh2C7f01hSn40RsUFIhUyTJpRPQqzx0t6nPYLmu++M\ngDen7vpAW/HJeOxzGMj+F833FUZPrSUKx5nn1nUaA3VJkQCFVYuLsslDFx0+yHax\n3Fssg9cRAgMBAAECggEACUC9wl4yWMe+/oGLlyT02HF5b9T8pQJZI6ZTgQ/BzsSq\nxDIPMMjXDBJCa3J0KuE6jz+sH0Zr1wq4YNnQmB7UY6E+CCd5CakY/sWH0MudQIXE\ne8ULucAio6DdiYJtGBvxTBc/wnwU4ZjwcGqb88hs+CDE6jbuGWBawSOiju7Qy+sc\n9Uoxa9+PYeBUDaed8BVNWGNnm66V9KLmnOi8EQ4EtBHdU3oKLpe1bUKHELXByIkm\n8IITWnkvbbsTlHOidsj6eddryY+MsmYsCaepvxrMpK+E3uA4PG3+2U0tK0ydOjb7\n4KH4ydwgiZnYDrvkSkqEtq1R8IGPFCj8OQvLX5XNeQKBgQDlhiqwsB6Liaoxc+ko\nrPdcufKy9EX7kJpBjAHAFZqS6cd6ETXVnlzSs/0NXJx7FAJ4NiJwyRW8bvEwER4w\nDfrjo/rodhpRwGYs5dvjANKc6mz04duszf9LOtesijp+EkrHjnT50+XRqDgL8DfO\nfSFyFHjpYsWASsEaI7waq8QBJQKBgQC2xkK6WYnGM5x4R8ICCojoU51CTJedfZru\nsyvFrzA1mlw6xJATcirRPdDcJQZmVD43REz4jIE8xTRqBaHxLg1qQ3Bs1i1g0XXd\nOlyQO5FLw9ldhYurUCF2VwRTnesJoGaLTyijerZlaLSj8F8b0Arv6OLfcEg7vYuS\ng2bj4SOofQKBgFTvfUS9J9CDNRPvzMxclX0e4o0OkAczz6GJ6evnErhjAopNbBqM\n69Sc/nu/VbjGAtPxVHVgNEby1xXuf7lQsxMiT2tOqRavmB/tP52VZFrk9UT5f41G\n/b4dHEqhLFwS8NFAClGY9GbNVVA1qLEk5QeOQ+A5yNRc1XCS4L0N6w5xAoGAAUyz\nmMOeOSyQxkIsXPtaMdy2V4xX36TO/zeC7irqutbYJQrUw26iY05/N7GDtCKRNq9j\npLjLCnWUg9R6bE6ZhdHo8L0tIW0b23DYy6XAyLshxop2jcdKFZ9Uxotu6mibkg4E\nCfWLankuH6RL6NS33zDWvCP+P35/iZEpoCEvsbkCgYEAiM0VtRuMqHP9xKygzoAN\n+Wft1l2NvSSym1D93cHExLEuFxSvzUfXDjiHkScwElRbzNwWQbts16iX/mMeakAD\nbvMekgUXRFelgxfRuE1K5XXF7P56bI8Z5YdAZQ24Ij09fmN8zWIwlvjOIGMtxVTd\nnW5WI2so+iQKpAYYSW112Hk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "veganlens-ocr@veganlens-466807.iam.gserviceaccount.com",
+  "client_id": "111225298735506886496",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/veganlens-ocr%40veganlens-466807.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
